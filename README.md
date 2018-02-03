@@ -1,22 +1,15 @@
-# nuxttest
+[![Deploy](https://wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy/demo-{repo})
 
-> Nuxt.js project
+# Nuxt.JS
 
-## Build Setup
+A demo of [Nuxt.JS](https://nuxtjs.org/) on [WeDeploy](https://wedeploy.com/).
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+## Instructions
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
+2. Clone this repository.
+3. Open the project with your command line and run we deploy -p yourproject.
 
-# build for production and launch server
-$ npm run build
-$ npm start
+## License
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
