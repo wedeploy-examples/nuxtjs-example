@@ -1,5 +1,3 @@
-[![Deploy](https://wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy/demo-{repo})
-
 # Nuxt.JS
 
 A demo of [Nuxt.JS](https://nuxtjs.org/) on [WeDeploy](https://wedeploy.com/).
