@@ -1,6 +1,6 @@
-# Nuxt.JS
+# Nuxt.JS [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [Nuxt.JS](https://nuxtjs.org/) on [WeDeploy](https://wedeploy.com/).
+An example of [Nuxt.JS](https://nuxtjs.org/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
