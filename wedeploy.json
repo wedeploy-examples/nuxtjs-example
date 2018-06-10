@@ -4,5 +4,9 @@
   "env": {
     "HOST": "0.0.0.0",
     "PORT": "3000"
+  },
+  "healthCheck": {
+    "url": "0.0.0.0:3000",
+    "startPeriod": 20
   }
 }
